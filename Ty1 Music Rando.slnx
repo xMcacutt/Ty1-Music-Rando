@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ty1 Music Rando/Ty1 Music Rando.vcxproj" />
+</Solution>
