@@ -1,0 +1,6 @@
+[submodule "TygerFramework"]
+	path = TygerFramework
+	url = https://github.com/ElusiveFluffy/TygerFramework
+[submodule "TygerMemory1"]
+	path = TygerMemory1
+	url = https://github.com/xMcacutt/TygerMemory1
